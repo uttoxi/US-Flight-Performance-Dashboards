@@ -1,1 +1,3 @@
-"# Dashboards" 
+The airline data dashboard project aims to provide insights and analysis of flight data to help airlines and airports improve their performance, customer experience, and operational efficiency. The project involves collecting, cleaning, and processing large volumes of flight data from various sources, including flight schedules, flight tracking, and airport operations data.
+
+The project's primary goal is to develop a user-friendly dashboard that visualizes key metrics and KPIs for airlines and airports, enabling them to monitor their performance and identify areas for improvement. The dashboard will include interactive charts, maps, and tables that allow users to explore the data and drill down into specific metrics.
